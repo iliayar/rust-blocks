@@ -1,0 +1,3 @@
+* Rust Blocks
+
+Repo initially was a part of https://github.com/iliayar/dotfiles
